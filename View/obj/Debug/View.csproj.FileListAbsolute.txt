@@ -1,0 +1,8 @@
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\bin\Debug\View.exe.config
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\bin\Debug\View.exe
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\bin\Debug\View.pdb
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\obj\Debug\View.exe
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\obj\Debug\View.pdb
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\bin\Debug\Model.dll
+C:\Users\Александр\Documents\GitHubRepositories\Homework-2\View\bin\Debug\Model.pdb
