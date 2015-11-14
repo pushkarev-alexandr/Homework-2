@@ -8,10 +8,10 @@ namespace Model
         public readonly DateTime LicenceDate;
         public readonly string Name;
 
-        public Driver(string name)
+        public Driver(string name, DateTime licenceDate)
         {
             Name = name;
-            LicenceDate = DateTime.Now;
+            LicenceDate = licenceDate;
             Categories = new List<Category>();
         }
 

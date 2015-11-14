@@ -10,9 +10,16 @@ namespace View
         static void Main()
         {
             var car = new Car("LADA", "o777oo", Category.D) {Color = Color.DarkViolet};
-            Console.WriteLine(car.CarPassport.Owner.Name);
+            try
+            {
+                Console.WriteLine(car.CarPassport.Owner.Name);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
-            var driver = new Driver("Voldemar");
+            var driver = new Driver("Voldemar",new DateTime(2015,4,15));
             driver.Categories.Add(Category.B);
             driver.Categories.Add(Category.C);
             driver.OwnCar(car);
